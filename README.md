@@ -1,1 +1,1 @@
-#Examples of task from OOP JAVA
+# Examples of tasks from OOP JAVA
